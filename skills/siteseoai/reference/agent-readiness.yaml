@@ -23,7 +23,7 @@ scanner:
   launched: 2026-04-17
   dashboard: https://blog.cloudflare.com/aeo/
   skills:
-    scan-site: sha256:8aabe99a6cb2ebb3d60490fa759f33bbd1fe8a1b89b827968ae77c579671bca6
+    scan-site: sha256:91d4e746ec1b32465e4e8e8c64d68c5cd9f90a63c7d9e3c07dcba9ccfe7cbf45
     robots-txt: sha256:7e5e73a545bc778506458904303b07ac7eebd570e48ce9815ee5189efd859bb7
     ai-rules: sha256:1616529afa5d5650e9354f75524bf351cfd386d1171a24cd2808016e050a0ef8
     content-signals: sha256:810108b0171c9c16ead091d5d7e9b5d0c72086b5dc6ef2b4e84fece01d72a91e
@@ -47,6 +47,7 @@ scanner:
     link-headers: sha256:90e89e75a88634a1f009813095fe5cf89d771c483dec3da074a108a998493d92
     dns-aid: sha256:f84b55c0855cb51805a023580d00b5b8047c0fb89ba03ea4c28317a06c857a9b
     acp: sha256:c461b3c222d19f42a07b3c2787e8a50c07fa9d2c48f20447970f973fdfc93958
+    personal-agent-protocol: sha256:bae119ecb496d9fc0ce4804b2df89344da00a42a660a68c6ea28d0e7558b31c0
 
 # The ladder, as published in the scanner's scan-site SKILL.md.
 levels:
